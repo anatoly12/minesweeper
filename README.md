@@ -1,3 +1,5 @@
+Hello!
+
 # 🧨 Minesweeper Game
 
 A classic **Minesweeper** game built using **React 19**, **Vite 6**, and **TypeScript**, styled with **MUI** and **Emotion**.  
